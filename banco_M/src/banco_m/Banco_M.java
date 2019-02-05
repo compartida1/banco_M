@@ -15,7 +15,7 @@ public class Banco_M {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Banco.");
+        System.out.println("Banco modificado.");
     }
     
 }
